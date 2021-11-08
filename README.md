@@ -13,7 +13,8 @@ Visit this page often to stay current on the latest open-source solutions launch
 
 ![](https://github.com/Azure-Samples/azure-search-knowledge-mining/raw/main/images/ui.PNG)
 
-
+<br />
+<br />
 
 <h2>Data Protection and Anonymization</h2>
 
@@ -21,7 +22,8 @@ Visit this page often to stay current on the latest open-source solutions launch
 
 ![](https://github.com/microsoft/presidio/raw/main/docs/assets/changing_text.gif)
 
-
+<br />
+<br />
 
 
 <h2>Common Data Model for Nonprofit Sample Applications</h2>
