@@ -1,7 +1,7 @@
 # Addition Microsoft Technical Soluitons 
 
 Microsoft Tech for Social Impact is dedicated to providing affordable and accessible technology and tools to 
-help nonprofits of all sizes achieve their missions. To further this goal we are providing some additional solutions on this page.  Below you will find a collection of demo applications and proof of concept designs.  Also included are solutions that come from other Microsoft teams that are particularly relevant to the nonprofit community.
+help nonprofits of all sizes achieve their missions. To further this goal we are providing references to additional solutions on this page.  Below you will find a collection of demo applications and proof of concept designs as well as additional solutions that come from other Microsoft teams that are particularly relevant to the nonprofit community.
 
 Visit this page often to stay current on the latest open-source solutions launched to support global nonprofit partners and organizations:   
 
