@@ -12,7 +12,7 @@ Visit this page often to stay current on the latest open-source solutions launch
 * The [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining) provides developers with all of the resources they need to quickly build an initial Knowledge Mining prototype with [Azure Cognitive Search](https://docs.microsoft.com/azure/search/cognitive-search-concept-intro). Use this accelerator to jump-start your development efforts with your own data or as a learning tool to better understand how you can use Cognitive Search to meet the unique needs of your business.
 
 ![](https://github.com/Azure-Samples/azure-search-knowledge-mining/raw/main/images/ui.PNG)
-
+</cr>
 <h2>Data Protection and Anonymization</h2>
 
 * [Microsoft Presidio](https://github.com/microsoft/presidio) helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization modules for private entities in text such as credit card numbers, names, locations, social security numbers, bitcoin wallets, US phone numbers, financial data and more.
