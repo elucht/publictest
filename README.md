@@ -1,13 +1,30 @@
-# Nonprofit Data Warehouse Quickstart
+# Addition Microsoft Technical Soluitons 
 
-Data warehouses enable organizations to get the most out of their data by aggregating multi-source data and transforming it so that organizations can layer analytics and generate important insights. 
+Microsoft Tech for Social Impact is dedicated to providing affordable and accessible technology and tools to 
+help nonprofits of all sizes achieve their missions. To further this goal we are providing some additional solutions on this page.  Below you will find a collection of demo applications and proof of concept designs.  Also included are solutions that come from other Microsoft teams that are particularly relevant to the nonprofit community.
 
-The Nonprofit Data Warehouse Quickstart is a pre-packaged, ‘one-click deployment,’ Azure based data warehouse proof-of-concept. For the purposes of the POC, the Quickstart integrates sample data from IATI and The WHO Water and Sanitation Report and the Quickstart with CDM integrates with the Microsoft Common Data Model Nonprofit Accelerator.
+Visit this page often to stay current on the latest open-source solutions launched to support global nonprofit partners and organizations:   
 
-* Review the ‘Technical Overview’ for further information on the solution architecture, benefits of each resource, and alternative architectures organizations could leverage in their own production data warehouse environment.
 
-* Review the ‘Nonprofit Data Warehouse Quickstart - Deployment Guide’ for step-by-step instructions on how to deploy the solution from GitHub, configure the components, and execute the solution. 
+[Knowledge Mining]
 
-* Review the ‘Nonprofit Data Warehouse Quickstart with CDM - Deployment Guide’ for step-by-step instructions on how to deploy the solution from GitHub, configure the components, and integrate the Nonprofit Accelerator attributes.
+The [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining) provides developers with all of the resources they need to quickly build an initial Knowledge Mining prototype with [Azure Cognitive Search](https://docs.microsoft.com/azure/search/cognitive-search-concept-intro). Use this accelerator to jump-start your development efforts with your own data or as a learning tool to better understand how you can use Cognitive Search to meet the unique needs of your business.
 
-* The code can be deployed via ‘README’. 
+
+[Data Protection and Anonymization]
+
+[Microsoft Presidio](https://github.com/microsoft/presidio) helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization modules for private entities in text such as credit card numbers, names, locations, social security numbers, bitcoin wallets, US phone numbers, financial data and more.
+
+
+[Common Data Model for Nonprofit Sample Applications]
+
+[Program Design](https://github.com/microsoft/Industry-Accelerator-Nonprofit/releases) is a Power Platform template application that partners can extend to help nonprofit program officers populate logframes (logical frameworks), design programs, select indicator sets like the United Nations Sustainable Development Goals (SDGs), and monitor and evaluate program outcomes. 
+
+[Measurement](https://github.com/microsoft/Industry-Accelerator-Nonprofit/releases/download/v2.2.3.1/NFP.Accelerator.2.2.-.IATI.User.Guide.docx) entities including items, relationships, and usage help nonprofits to measure the impact of their programs.   
+
+[Volunteer Management](http://Volunteer) is an optional add-on to the CDM that tracks volunteer preferences, skills and availability,  and establishes Volunteer Projects by leveraging Dynamics 365 Project Service Automation. 
+
+
+
+
+
