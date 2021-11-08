@@ -7,7 +7,7 @@ Visit this page often to stay current on the latest open-source solutions launch
 
 
 
-<h1>Knowledge Mining</h1>
+<h2>Knowledge Mining</h2>
 
 * The [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining) provides developers with all of the resources they need to quickly build an initial Knowledge Mining prototype with [Azure Cognitive Search](https://docs.microsoft.com/azure/search/cognitive-search-concept-intro). Use this accelerator to jump-start your development efforts with your own data or as a learning tool to better understand how you can use Cognitive Search to meet the unique needs of your business.
 
@@ -17,7 +17,7 @@ Visit this page often to stay current on the latest open-source solutions launch
 * [Microsoft Presidio](https://github.com/microsoft/presidio) helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization modules for private entities in text such as credit card numbers, names, locations, social security numbers, bitcoin wallets, US phone numbers, financial data and more.
 
 
-<h3>Common Data Model for Nonprofit Sample Applications</h3>
+<h2>Common Data Model for Nonprofit Sample Applications</h2>
 
 * [Program Design](https://github.com/microsoft/Industry-Accelerator-Nonprofit/releases) is a Power Platform template application that partners can extend to help nonprofit program officers populate logframes (logical frameworks), design programs, select indicator sets like the United Nations Sustainable Development Goals (SDGs), and monitor and evaluate program outcomes. 
 
