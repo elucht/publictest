@@ -17,6 +17,7 @@ Visit this page often to stay current on the latest open-source solutions launch
 
 * [Microsoft Presidio](https://github.com/microsoft/presidio) helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization modules for private entities in text such as credit card numbers, names, locations, social security numbers, bitcoin wallets, US phone numbers, financial data and more.
 
+![](https://github.com/microsoft/presidio/raw/main/docs/assets/changing_text.gif)
 
 <h2>Common Data Model for Nonprofit Sample Applications</h2>
 
