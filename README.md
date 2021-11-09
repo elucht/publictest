@@ -6,6 +6,12 @@ help nonprofits of all sizes achieve their missions. To further this goal we are
 Visit this page often to stay current on the latest open-source solutions launched to support global nonprofit partners and organizations:   
 
 <br />
+
+## Contents
+
+* [Knowledge Mining](#knowledge mining)
+
+
 <br />
 <br />
 
